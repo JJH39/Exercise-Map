@@ -1,5 +1,5 @@
 # Exercise-Map
-This was a project on a JS learning course.
+This was a a project on a JS Udemy course.
 
 HTML and CSS was provided for this project so as to allow the focus to be on  practicing JS however, there was some manipulation of the HTML as part of the project. 
 
